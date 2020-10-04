@@ -1,5 +1,4 @@
-This program package is used to study the effects of complex heterogeneities on wave dispersion and attenuation at micro- and meso-scopic scales, which is based on the model proposed in the paper "Extended Gassmann Equation with Dynamic Volumetric Strain: Modeling Wave Dispersion and Attenuation of Complex Heterogenous Porous Rocks".
-The detailed descriptions of each program are as follows:
+This program package is used to study the effects of complex heterogeneities on wave dispersion and attenuation at micro- and meso-scopic scales, which is based on the model of Extended Gassmann Equation with Dynamic Volumetric Strain. The detailed descriptions of each program are as follows:
 
 1. mesoscopic：
 
